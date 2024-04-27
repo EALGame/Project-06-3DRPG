@@ -1,7 +1,9 @@
 # Project-06
-
-# Features added
-
-# References to resources used in the project
-
+## Implementation / Features you added
+Moving enemy, Terrain, Start screen, Materials
+## References
+Nathan Mishler Class
+## Future Development
+More enemies, More characters, More levels?
 # Created by
+Eric Lasse
